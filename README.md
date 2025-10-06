@@ -1,2 +1,2 @@
 # readme.md
-#my firt commit
+_the beginner_
