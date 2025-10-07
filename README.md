@@ -1,2 +1,2 @@
 # starting.md
-_the beginner is dark, but will become light..._
+_the beginner is in dark, but will soon become light..._
